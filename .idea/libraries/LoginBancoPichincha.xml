@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LoginBancoPichincha">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LoginBancoPichincha.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
